@@ -1,0 +1,17 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input, button {
+    margin-bottom: 10px;
+  }
